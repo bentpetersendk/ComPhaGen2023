@@ -1321,8 +1321,8 @@ a {
   }
 }
 .cid-sIT3XIJNoi {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background: #edeff0;
 }
 .cid-sIT3XIJNoi h3 {
@@ -1366,4 +1366,16 @@ a {
 .cid-sIT3XIJNoi .card-text {
   line-height: 110%;
   font-weight: 500;
+}
+#custom-html-6 {
+  /* Type valid CSS here */
+}
+#custom-html-6 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6 p {
+  font-size: 60px;
+  color: #777;
 }
